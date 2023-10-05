@@ -1,5 +1,5 @@
 ### Hi i am JIM 😎
-<h3 align="center">A Beginner level Programer from Bangladesh , Asia!!</h3>
+<h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!</h3>
 🚩🔕🚭🔇🚩     
 
 <img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&theme=default" />
