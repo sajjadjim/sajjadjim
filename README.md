@@ -41,9 +41,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/gebetatech" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gebetatech" height="30" width="40" /></a>
-	
+<a href="https://fb.com/sajjad.hossain.jim.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjad.hossain.jim.69" height="30" width="40" /> </a>
+<a href="https://instagram.com/sajjad.hossain.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad.hossain.jim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jim" height="30" width="40" /></a></a>
+<a href="https://discord.gg/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jim" height="30" width="40" /></a>
+ <a href="https://twitter.com/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="30" width="40" /> 
+</p>
 </p>
 
 
