@@ -4,10 +4,10 @@
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
 
-<img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&theme=default" />
-<img  align="left" width ="35%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&layout=compact" />
+<img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img  align="left" width ="35%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10" /> 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim"/></p>
 
  <br><br> <br><br><br><br> <br><br> 
  <br> ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) 
