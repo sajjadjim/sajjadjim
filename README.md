@@ -50,7 +50,6 @@
 </p>
 </p>
       
-<br>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sajjadjim15@gmail.com?subject=From%20GitHub&cc=jim15-5364@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 
