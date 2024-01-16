@@ -49,6 +49,9 @@
  <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="30" width="40" /> 
 </p>
 </p>
+      
+<br>
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sajjadjim15@gmail.com?subject=From%20GitHub&cc=jim15-5364@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 
 
