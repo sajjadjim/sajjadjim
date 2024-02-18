@@ -40,19 +40,35 @@
 
 
 <h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://fb.com/sajjadjim15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadjim15" height="30" width="40" /></a> <a> </a> <a> </a>
-<a href="https://instagram.com/sajjad.hossain.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad.hossain.jim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAA1wgWlua8NZMybL7O5vKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCAA1wgWlua8NZMybL7O5vKg" height="30" width="40" /></a></a>
-<a href="https://discord.gg/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajjadjim" height="30" width="40" /></a>
-<a href="https://twitter.com/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="30" width="40" /> 
+<p align="center">
+<a href="https://fb.com/sajjadjim15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadjim15" height="40" width="40" /></a> <a> </a> <a> </a>
+<a href="https://instagram.com/sajjad.hossain.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad.hossain.jim" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAA1wgWlua8NZMybL7O5vKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCAA1wgWlua8NZMybL7O5vKg" height="40" width="40" /></a></a>
+<a href="https://discord.gg/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajjadjim" height="40" width="40" /></a>
+<a href="https://twitter.com/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim" height="40" width="40" /></a>
+ <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="40" width="40" /> 
 </p>
 </p>
-      
+
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sajjadjim15@gmail.com?subject=From%20GitHub&cc=jim15-5364@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 
+
+
+
+## :bulb: What You Will Learn_
+
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
+</p>
+
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
+</p>
 
 
 
