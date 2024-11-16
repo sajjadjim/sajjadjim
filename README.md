@@ -7,8 +7,8 @@
 <img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img  align="left" width ="32%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10" /> 
 
+<p align="center" align="left" > <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="mahfujur221" /> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sajjadjim&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 
 
