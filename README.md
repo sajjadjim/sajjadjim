@@ -37,13 +37,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - [Project 3](link to project) - Short description of project 3
 
 ## 🏆 Achievements
+<p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadjim" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
-- [Achievement 1](link to achievement) - Short description of achievement 1
-- [Achievement 2](link to achievement) - Short description of achievement 2
+
 
 
 ## 📝 Blog Posts
-
 - [Blog Post 1](link to blog post)
 - [Blog Post 2](link to blog post)
 
@@ -53,11 +53,6 @@ If you like my work, consider buying me a coffee:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](link to your Buy Me A Coffee page)
 
-
-
-
-<p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadjim" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
 
 <br>
