@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 If you like my work, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](link to your Buy Me A Coffee page)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.starbucks.com/)
 
 
 
