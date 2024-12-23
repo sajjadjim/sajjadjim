@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🚀 Skills
 
-- **Languages:** C . C++ , HTML ,CSS, Javascript, Python ,Java
+- **Languages:** C , C++ , HTML ,CSS, Javascript, Python ,Java
 - **Frameworks/Libraries:** [list of frameworks or libraries you use]
 - **Tools:** Visual Studio Code ,Git Bash,Neatbeans Apache,PyCharm Community
 - <br>
