@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 
 - 🔭 I’m currently working on [your current project or job]
-- 🌱 I’m currently learning Web Development skill.
+- 🌱 I’m currently learning Web Development skill. 
 - 👯 I’m looking to collaborate on [projects you want to collaborate on]
 - 🤔 I’m looking for help with [something you need help with]
 - 💬 Ask me about [topics you are knowledgeable about]
