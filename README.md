@@ -22,10 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <img  align="left" width ="32%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10" /> 
 <p align="center" align="left" > <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim" /> </p>
 <p align="center" align="left" > <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&langs_count=8" alt="SAJJAD JIM" /> <br>   
-## 🚀 Skills
-
+<br>
+     
+##🚀Skills
 - **Languages:** C , C++ , HTML ,CSS, Javascript, Python ,Java
-- **Frameworks/Libraries:** [list of frameworks or libraries you use]
+- **Frameworks/Libraries:
 - **Tools:** Visual Studio Code ,Git Bash,Neatbeans Apache,PyCharm Community
 - <br>
 <h2 align="left">🧰Languages and Tools:</h2>
