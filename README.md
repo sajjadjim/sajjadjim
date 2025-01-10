@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 
 
-- 🔭 I’m currently working on -----
+- 🔭 I’m currently study on Computer Science And Engineering.
 - 🌱 I’m currently learning Web Development skill. 
 - 👯 I’m looking to collaborate on [projects you want to collaborate on]
 - 💬 Ask me about Hardware and Software related computer/Laptop...
