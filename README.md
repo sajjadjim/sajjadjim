@@ -37,21 +37,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
 
-## 💖 Support
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.starbucks.com/)
-
-
 <br>
 <h2 align="left"> Uses Software :</h2>
 <p align="left">
 </p>
 <p align="left"> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  </a>  
-
-
-
 
 
 <h2 align="left"> :mailbox: Contact with me</h2>
