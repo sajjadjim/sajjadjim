@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 <br>
 ## 📈 GitHub Stats
-<img  align="left" width="65%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <p align="center" align="left" > <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&langs_count=8" alt="SAJJAD JIM" />
+<img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img  align="left" width ="30%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10" /> 
 <p align="center" align="left" > <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim" /> </p>
  <br>   
