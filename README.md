@@ -28,28 +28,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <h2 align="left">🧰Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 
-## 📚 Latest Projects
-- [Project 1](link to project) - Short description of project 1
-- [Project 2](link to project) - Short description of project 2
-- [Project 3](link to project) - Short description of project 3
+## 📚 Latest works/Projects
+- <p><a href="https://www.figma.com/" >Bangladesh 2.0</p>
+
 
 ## 🏆 Achievements
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadjim" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
 
-
-
-## 📝 Blog Posts
-- [Blog Post 1](link to blog post)
-- [Blog Post 2](link to blog post)
-
 ## 💖 Support
 
 If you like my work, consider buying me a coffee:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.starbucks.com/)
-
 
 
 <br>
