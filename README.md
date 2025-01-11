@@ -4,15 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <h1 align="center">🍁 Welcome To My Profile 🍁</h1>
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
-
-
-
 - 🔭 I’m currently study on Computer Science And Engineering.
 - 🌱 I’m currently learning Web Development skill. 
-- 👯 I’m looking to collaborate on [projects you want to collaborate on]
 - 💬 Ask me about Hardware and Software related computer/Laptop...
 - 📫 How to reach me: <a src="http://sajjadjim.bio.link">
-- ⚡ Fun fact: Play Game 🎮 🎱 🏸 🎯 🎳
 
 
 <br>
