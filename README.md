@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - <p><a href="https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/" >Bangladesh 2.0</p>
 
 <br>
-<h2 align="left"> Uses Software $ Tools :</h2>
+<h2 align="left">🖥️⌨️💻 Uses Software & Tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,mysql,figma,xd,gmail,raspberrypi,stackoverflow,linkedin&perline=7"/>
