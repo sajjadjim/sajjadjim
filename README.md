@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <h2 align="left"> 🎯Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,c,cpp,py,java,mysql,git,powershell,linux&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,c,cpp,py,java&perline=5"/>
   </a>
 </p>
 
@@ -42,10 +42,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - <p><a href="https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/" >Bangladesh 2.0</p>
 
 <br>
-<h2 align="left"> Uses Software :</h2>
+<h2 align="left"> Uses Software $ Tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,gmail,instagram,linkedin&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,mysql,figma,xd,gmail,raspberrypi,stackoverflow,linkedin&perline=7"/>
   </a>
 </p>
  
