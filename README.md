@@ -43,9 +43,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 <br>
 <h2 align="left"> Uses Software :</h2>
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,gmail,instagram,linkedin&perline=5"/>
+  </a>
 </p>
-<p align="left"> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  </a>  
+ 
 
 
 <h2 align="left"> :mailbox: Contact with me</h2>
