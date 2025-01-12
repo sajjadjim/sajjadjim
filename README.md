@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <h2 align="left">🖥️⌨️💻 Uses Software & Tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,mysql,figma,xd,gmail,raspberrypi,stackoverflow,linkedin&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,mysql,figma,xd,gmail,raspberrypi,stackoverflow&perline=6"/>
   </a>
 </p>
  
