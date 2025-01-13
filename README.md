@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <br>
 
 ## 🏆 Achievements
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/sajjadjim)
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadjim" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
@@ -49,7 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   </a>
 </p>
  
-
 
 <h2 align="left"> :mailbox: Contact with me</h2>
 <p align="center">
