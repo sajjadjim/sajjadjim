@@ -61,13 +61,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </p>
 </p>
 
-
 Thanks for visiting my profile! Have a great day! 😊
 
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/sajjadjim)  
 
 
 
