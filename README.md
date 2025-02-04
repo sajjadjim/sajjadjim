@@ -10,6 +10,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 📫 How to reach me: <a src="http://sajjadjim.bio.link">
 
 
+## Introduction
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F76000&center=true&width=500&lines=I+am+a+Programmer;3%2B+years+Coding++Experience+.+.+.;Learning+HTML%2C+CSS+%26++JAVASCRIPT+" alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/sajjadjim?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sajjadjim?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
+
 <br>
 ## 📈 GitHub Stats
 <p align="center">
