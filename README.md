@@ -39,7 +39,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <br>
 
 ## 🏆 Achievements
-<p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadjim" /> </p>
+<p align="center" border="2px solid white"> 
+         <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
 <h2 align="left"> 🎯Languages and Tools:</h2>
