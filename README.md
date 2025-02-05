@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I’m currently study on Computer Science And Engineering.
 - 🌱 I’m currently learning Web Development skill. 
 - 💬 Ask me about Hardware and Software related computer/Laptop...
-- 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://admin.registeredemail.com/uploads/apps/app_logo/gmail-logo.png" alt="sajjadjim" height="25" width="25" target="_blank" /> 
+- 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" /> 
 
 
 ## Introduction
