@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
-<h2 align="left"> 🎯Languages and Tools:</h2>
+<h2 align="left"> 🎯Languages :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,tailwind,c,cpp,py,java&perline=5"/>
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - <p><a href="https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/" >Bangladesh 2.0</p>
 
 <br>
-<h2 align="left">🖥️⌨️💻 Skills :</h2>
+<h2 align="left">🖥️⌨️💻 Software and tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,notion,mysql&perline=6"/>
@@ -59,13 +59,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </p>
  
 
-<h2 align="left"> :mailbox: Contact with me</h2>
+<h2 align="left"> :mailbox: Contact with me:</h2>
 <p align="center">
 <a href="https://fb.com/sajjad.hossain.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadjim15" height="40" width="40" /></a> <a> </a> <a> </a>
 <a href="https://instagram.com/sajjad.hossain.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad.hossain.jim" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCAA1wgWlua8NZMybL7O5vKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCAA1wgWlua8NZMybL7O5vKg" height="40" width="40" /></a></a>
 <a href="https://discord.gg/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajjadjim" height="40" width="40" /></a>
-<a href="https://twitter.com/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim" height="40" width="40" /></a>
+<!-- <a href="https://twitter.com/jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim" height="40" width="40" /></a> -->
  <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="40" width="40" /> 
 </p>
 </p>
