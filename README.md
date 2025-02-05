@@ -31,12 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <p align="center" align="left" > <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim" /> </p>
  <br>   
 <br>
-     
-##🚀Skills
-- **Languages:** C , C++ , HTML ,CSS, Javascript, Python ,Java
-- **Frameworks/Libraries:
-- **Tools:** Visual Studio Code ,Git Bash,Neatbeans Apache,PyCharm Community
-<br>
+
 
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
@@ -56,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - <p><a href="https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/" >Bangladesh 2.0</p>
 
 <br>
-<h2 align="left">🖥️⌨️💻 Uses Software & Tools :</h2>
+<h2 align="left">🖥️⌨️💻 Skills :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,notion,mysql&perline=6"/>
