@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I’m currently study on Computer Science And Engineering.
 - 🌱 I’m currently learning Web Development skill. 
 - 💬 Ask me about Hardware and Software related computer/Laptop...
-- 📫 How to reach me:  <a href="https://mail.google.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="25" width="25" target="_blank" /> 
+- 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="25" width="25" target="_blank" /> 
 
 
 ## Introduction
