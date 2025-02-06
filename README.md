@@ -49,14 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 📚 Latest works/Projects
 - <p><a href="https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/" >Bangladesh 2.0</p>
 
-<br>
-<h2 align="left">🖥️⌨️💻 Software and tools :</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,notion,mysql&perline=6"/>
-  </a>
-</p>
- 
 
 <h2 align="left"> :mailbox: Contact with me:</h2>
 <p align="center">
