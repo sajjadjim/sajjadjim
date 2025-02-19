@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently learning Web Development skill. 
 - 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
-- How to reach me:  <a href="https://medium.com/@sajjadjim15" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
+- How to reach me:  <a href="https://medium.com/@sajjadjim15" target="blank"><img align="center" src="https://medium.com/write-a-catalyst/how-medium-changed-my-life-30ce0adccb99" alt="sajjadjim" height="25" width="45" target="_blank" />
 
 ## Introduction
 <p align="center">
