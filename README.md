@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
  <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="40" width="40" /> 
 </p>
 </p>
-
+ 
 Thanks for visiting my profile! Have a great day! 😊
 
 
