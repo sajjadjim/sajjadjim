@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <h2 align="left"> 🎯Languages :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,tailwind,c,cpp,py,java,nodejs,nuxtjs,vue&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,tailwind,c,cpp,py,java,nodejs&perline=5"/>
   </a>
 </p>
 
