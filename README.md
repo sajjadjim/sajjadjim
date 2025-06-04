@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=e70b61&center=true&width=700&lines=I+am+a+Programmer+💻💻💻;3%2B+years+Coding++Experience+.+.+.;Practice+Tailwind%2C+React+%26++JAVASCRIPT+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Programmer%F0%9F%92%BB%F0%9F%92%BB;2+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
 </p>
 
 <br>
