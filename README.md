@@ -30,6 +30,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <p align="center" border="2px solid white"> 
          <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
 </p>
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sajjadjim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
 <h2 align="left"> 🎯Languages :</h2>
@@ -38,6 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
     <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,react,tailwind,c,cpp,py,java,nodejs,express,firebase&perline=5"/>
   </a>
 </p>
+
 
 
 ## 📚 Latest works/Projects
