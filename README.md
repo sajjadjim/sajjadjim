@@ -3,8 +3,9 @@
 <img src="https://github.com/sajjadjim/sajjadjim/blob/main/sajjadjim.png?raw=true" />
 </a>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here you can find some of my projects, contributions, and more about me.
-## 🌟 About Me     
+<!-- Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here you can find some of my projects, contributions, and more about me.
+## 🌟 About Me -->
+     
 <h1 align="center">🍁 Welcome To My Profile 🍁</h1>        
 <h3 align="center">A Junior level programmer and MERN stack Web Developer  from Bangladesh , Asia!!🥸</h3>  
      
