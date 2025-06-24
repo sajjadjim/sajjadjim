@@ -54,10 +54,9 @@
 
 
 
-## 📚 Latest works/Projects
-- <p><a href="https://sajjadjim.github.io/Assignment-5-DevBoard-TaskList/" >Task | List</p>
-- <p><a href="https://english-janala-sajjadjim.vercel.app/" >English | জানালা</p>
-- <p><a href="https://items-bit.vercel.app/" >Auction | Gellary</p>
+## Project
+<p><a href="https://github.com/sajjadjim/Projects-Link/blob/main/README.md" >📚 Latest works/Projects-</p>
+
 
 ##Some Usefull site :
 - <p><a href="https://code-decode-two.vercel.app/" >Code || Decode</p>
