@@ -1,5 +1,5 @@
 # Hi there, I'm  JIM! 👋      
-<a href="https://sajjadjim.vercel.app">
+<a href="https://sajjadjim.github.io/">
 <img src="https://github.com/sajjadjim/sajjadjim/blob/main/sajjadjim.png?raw=true" />
 </a>
 
