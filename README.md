@@ -27,6 +27,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> 
 <p align="center" align="left" > <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim" /> </p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=swift" />
+</div>
  <br>   
 <br>
 
@@ -35,9 +38,6 @@
 <p align="center" border="2px solid white"> 
          <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
 </p>
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -74,8 +74,16 @@
 </p>
 
 <!-- Activity Graph -->
+<!---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadjim&custom_title=My%20Contribution%20Graph&bg_color=FFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
- 
+
+ ##<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajjadjim&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajjadjim&theme=github_dark" />
+</div>  --->
+
 Thanks for visiting my profile! Have a great day! 😊
 
 
