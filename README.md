@@ -6,7 +6,8 @@
 <!-- Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here you can find some of my projects, contributions, and more about me.
 ## 🌟 About Me -->
      
-<!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->       
+<!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->   
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me
 <h3 align="center">A Junior level programmer and MERN stack Web Developer  from Bangladesh , Asia!!🥸</h3>  
      
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
@@ -20,7 +21,7 @@
 </p>
 
 <br>
-<h2>📈GitHub Stats</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics</h2>
 <p align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
@@ -45,7 +46,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
-<h2 align="left"> 🎯Languages :</h2>
+<h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Languages :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,mongodb,react,tailwind,c,cpp,py,java,nodejs,express,firebase&perline=5"/>
@@ -54,7 +55,7 @@
 
 
 
-## Project
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
 <p><a href="https://github.com/sajjadjim/Projects-Link/blob/main/README.md" >📚 Latest works/Projects-</p>
 
 
@@ -71,6 +72,9 @@
  <a href="https://linkedin.com/in/sajjadjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjim" height="40" width="40" /> 
 </p>
 </p>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadjim&custom_title=My%20Contribution%20Graph&bg_color=FFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
  
 Thanks for visiting my profile! Have a great day! 😊
 
