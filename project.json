@@ -25,7 +25,7 @@
     },
     {
         "id": 2,
-        "name": "EduLearn",
+        "name": "Lost and Found Items",
         "description": "An e-learning platform offering online courses, video lectures, and interactive quizzes.",
         "image": "https://i.ibb.co/t2DmXbb/edulearn.png",
         "technologies": [
@@ -33,9 +33,9 @@
             "Firebase",
             "Tailwind CSS"
         ],
-        "clientCode": "https://github.com/your-username/edulearn-client",
+        "clientCode": "https://github.com/sajjadjim/Items-Lost-And-Found",
         "serverCode": "",
-        "liveLink": "https://edulearn.vercel.app/",
+        "liveLink": "https://lost-and-found-website-c7da7.web.app/",
         "category": "Frontend",
         "short_description": "EduLearn helps users learn new skills through structured video courses and quizzes with user progress tracking.",
         "screenshots": [
@@ -44,7 +44,7 @@
     },
     {
         "id": 3,
-        "name": "TaskMaster",
+        "name": "App Store",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
         "image": "https://i.ibb.co/mcdmGLj/taskmaster.png",
         "technologies": [
@@ -53,9 +53,9 @@
             "Node.js",
             "MongoDB"
         ],
-        "clientCode": "https://github.com/your-username/taskmaster-client",
+        "clientCode": "https://github.com/sajjadjim/app-store",
         "serverCode": "https://github.com/your-username/taskmaster-server",
-        "liveLink": "https://taskmaster.vercel.app/",
+        "liveLink": "https://app-store-45c21.web.app/app",
         "category": "Full Stack",
         "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
         "screenshots": [
@@ -64,7 +64,7 @@
     },
     {
         "id": 4,
-        "name": "ShopNest",
+        "name": "Coffe Shop",
         "description": "A modern e-commerce platform for selling and purchasing products online.",
         "image": "https://i.ibb.co/NFcRHTC/shopnest.png",
         "technologies": [
@@ -73,9 +73,9 @@
             "MongoDB",
             "Stripe"
         ],
-        "clientCode": "https://github.com/your-username/shopnest-client",
+        "clientCode": "https://github.com/sajjadjim/client-side-coffee-server",
         "serverCode": "https://github.com/your-username/shopnest-server",
-        "liveLink": "https://shopnest.vercel.app/",
+        "liveLink": "https://coffees-sajjadjim.netlify.app/",
         "category": "Full Stack",
         "short_description": "ShopNest is a complete e-commerce site with cart, payment integration, admin dashboard, and product management.",
         "screenshots": [
@@ -84,7 +84,7 @@
     },
     {
         "id": 5,
-        "name": "Foodify",
+        "name": "Law BD",
         "description": "An online food ordering and delivery app with restaurant management dashboard.",
         "image": "https://i.ibb.co/yFT0HYz/foodify.png",
         "technologies": [
@@ -92,9 +92,9 @@
             "Firebase",
             "Bootstrap"
         ],
-        "clientCode": "https://github.com/your-username/foodify-client",
+        "clientCode": "https://github.com/sajjadjim/layer-website",
         "serverCode": "",
-        "liveLink": "https://foodify.vercel.app/",
+        "liveLink": "https://layer-website-liard.vercel.app/",
         "category": "Frontend",
         "short_description": "Foodify allows users to browse menus, order meals, and track deliveries. Restaurant owners can manage orders in real-time.",
         "screenshots": [
@@ -103,7 +103,7 @@
     },
     {
         "id": 6,
-        "name": "PortfolioX",
+        "name": "Dragon News",
         "description": "A developer portfolio template built with clean UI and animations.",
         "image": "https://i.ibb.co/LCd8sXf/portfoliox.png",
         "technologies": [
@@ -111,9 +111,9 @@
             "Tailwind CSS",
             "Framer Motion"
         ],
-        "clientCode": "https://github.com/your-username/portfoliox",
+        "clientCode": "https://github.com/sajjadjim/Dragon-News",
         "serverCode": "",
-        "liveLink": "https://portfoliox.vercel.app/",
+        "liveLink": "https://dragon-news-452fd.web.app/",
         "category": "Frontend",
         "short_description": "PortfolioX is a modern, responsive developer portfolio with sections for projects, blogs, and contact form.",
         "screenshots": [
