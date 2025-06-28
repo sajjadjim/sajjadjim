@@ -10,7 +10,9 @@
             "Express",
             "MongoDB",
             "Tailwind CSS",
-            "Firebase"
+            "Firebase",
+            "Firebase Auth",
+            "JWT"
         ],
         "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
         "serverCode": "https://github.com/your-username/easybook-server",
@@ -29,9 +31,13 @@
         "description": "An e-learning platform offering online courses, video lectures, and interactive quizzes.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
         "technologies": [
-            "Next.js",
+            "Firebase Auth",
             "Firebase",
-            "Tailwind CSS"
+            "Tailwind CSS",
+            "React",
+            "Node.Js",
+            "Express Js",
+            "MongoDB"
         ],
         "clientCode": "https://github.com/sajjadjim/Items-Lost-And-Found",
         "serverCode": "",
@@ -51,9 +57,10 @@
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image.png?raw=true",
         "technologies": [
             "React",
-            "Redux",
+            "Tailwind CSS",
             "Node.js",
-            "MongoDB"
+            "Firebase",
+            "ExpressJs"
         ],
         "clientCode": "https://github.com/sajjadjim/app-store",
         "serverCode": "https://github.com/your-username/taskmaster-server",
@@ -73,9 +80,11 @@
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/image.png?raw=true",
         "technologies": [
             "React",
-            "Express",
+            "Firebase",
             "MongoDB",
-            "Stripe"
+            "Express Js"
+            ,"Node.JS",
+            "Tailwind CSS"
         ],
         "clientCode": "https://github.com/sajjadjim/client-side-coffee-server",
         "serverCode": "https://github.com/your-username/shopnest-server",
@@ -94,9 +103,11 @@
         "description": "An online food ordering and delivery app with restaurant management dashboard.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project5/image.png?raw=true",
         "technologies": [
-            "Vue.js",
+            "Node.js",
             "Firebase",
-            "Bootstrap"
+            "React",
+            "Tailwind CSS",
+            "JavaScript"
         ],
         "clientCode": "https://github.com/sajjadjim/layer-website",
         "serverCode": "",
@@ -117,7 +128,10 @@
         "technologies": [
             "React",
             "Tailwind CSS",
-            "Framer Motion"
+            "Framer Motion",
+            "Firebase",
+            "Firebase Auth",
+            "Node.JS"
         ],
         "clientCode": "https://github.com/sajjadjim/Dragon-News",
         "serverCode": "",
