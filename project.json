@@ -150,7 +150,7 @@
     },
     {
         "id": 7,
-        "name": "DevBlog",
+        "name": "English Janala",
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://i.ibb.co/YZNSt5G/devblog.png",
         "technologies": [
@@ -158,10 +158,10 @@
             "MongoDB",
             "Prism.js"
         ],
-        "clientCode": "https://github.com/your-username/devblog",
+        "clientCode": "https://github.com/sajjadjim/English-Janala---Assignment-6-",
         "serverCode": "",
-        "liveLink": "https://devblog.vercel.app/",
-        "category": "Full Stack",
+        "liveLink": "https://english-janala-sajjadjim.vercel.app/",
+        "category": "Fronend",
         "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
         "screenshots": [
             "https://i.ibb.co/YZNSt5G/devblog.png"
