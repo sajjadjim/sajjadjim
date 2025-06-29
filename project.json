@@ -37,12 +37,13 @@
             "React",
             "Node.Js",
             "Express Js",
-            "MongoDB"
+            "MongoDB",
+            "JWT"
         ],
         "clientCode": "https://github.com/sajjadjim/Items-Lost-And-Found",
         "serverCode": "",
         "liveLink": "https://lost-and-found-website-c7da7.web.app/",
-        "category": "Frontend",
+        "category": "Full Stack",
         "short_description": "EduLearn helps users learn new skills through structured video courses and quizzes with user progress tracking.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image1.png?raw=true",
@@ -65,7 +66,7 @@
         "clientCode": "https://github.com/sajjadjim/app-store",
         "serverCode": "https://github.com/your-username/taskmaster-server",
         "liveLink": "https://app-store-45c21.web.app/app",
-        "category": "Full Stack",
+        "category": "Frontend",
         "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image1.png?raw=true",
@@ -75,7 +76,7 @@
     },
     {
         "id": 4,
-        "name": "Coffe Shop",
+        "name": "Coffee Shop",
         "description": "A modern e-commerce platform for selling and purchasing products online.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/image.png?raw=true",
         "technologies": [
@@ -84,7 +85,10 @@
             "MongoDB",
             "Express Js"
             ,"Node.JS",
-            "Tailwind CSS"
+            "Tailwind CSS",
+            "Express.Js",
+            "Firebase",
+            "Firebase Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/client-side-coffee-server",
         "serverCode": "https://github.com/your-username/shopnest-server",
@@ -179,26 +183,6 @@
         "short_description": "A sleek UI to schedule events, invite attendees, and track RSVP status with real-time updates.",
         "screenshots": [
             "https://i.ibb.co/68HfRrM/eventify.png"
-        ]
-    },
-    {
-        "id": 9,
-        "name": "WeatherSnap",
-        "description": "A real-time weather app using OpenWeatherMap API.",
-        "image": "https://i.ibb.co/Q8rXwHf/weathersnap.png",
-        "technologies": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "API"
-        ],
-        "clientCode": "https://github.com/your-username/weathersnap",
-        "serverCode": "",
-        "liveLink": "https://weathersnap.vercel.app/",
-        "category": "Frontend",
-        "short_description": "WeatherSnap fetches live weather data, shows temperature, wind, and forecast based on user's location.",
-        "screenshots": [
-            "https://i.ibb.co/Q8rXwHf/weathersnap.png"
         ]
     }
 ]
