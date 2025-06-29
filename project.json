@@ -41,7 +41,7 @@
             "JWT"
         ],
         "clientCode": "https://github.com/sajjadjim/Items-Lost-And-Found",
-        "serverCode": "",
+        "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/assignment%2011%20server",
         "liveLink": "https://lost-and-found-website-c7da7.web.app/",
         "category": "Full Stack",
         "short_description": "EduLearn helps users learn new skills through structured video courses and quizzes with user progress tracking.",
@@ -91,7 +91,7 @@
             "Firebase Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/client-side-coffee-server",
-        "serverCode": "https://github.com/your-username/shopnest-server",
+        "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/server-side-coffee-main",
         "liveLink": "https://coffees-sajjadjim.netlify.app/",
         "category": "Full Stack",
         "short_description": "ShopNest is a complete e-commerce site with cart, payment integration, admin dashboard, and product management.",
