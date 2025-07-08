@@ -167,22 +167,4 @@
             "https://i.ibb.co/YZNSt5G/devblog.png"
         ]
     },
-    {
-        "id": 8,
-        "name": "Eventify",
-        "description": "Eventify helps users create, manage, and RSVP to public or private events.",
-        "image": "https://i.ibb.co/68HfRrM/eventify.png",
-        "technologies": [
-            "Angular",
-            "Firebase"
-        ],
-        "clientCode": "https://github.com/your-username/eventify",
-        "serverCode": "",
-        "liveLink": "https://eventify.vercel.app/",
-        "category": "Frontend",
-        "short_description": "A sleek UI to schedule events, invite attendees, and track RSVP status with real-time updates.",
-        "screenshots": [
-            "https://i.ibb.co/68HfRrM/eventify.png"
-        ]
-    }
 ]
