@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "name": "Freelancer Task",
         "description": "A comprehensive online booking system for managing appointments and reservations.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
@@ -26,7 +25,6 @@
         ]
     },
     {
-        "id": 2,
         "name": "Lost and Found Items",
         "description": "An e-learning platform offering online courses, video lectures, and interactive quizzes.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
@@ -52,7 +50,6 @@
         ]
     },
     {
-        "id": 3,
         "name": "PickOn",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image.png?raw=true",
@@ -79,7 +76,6 @@
         ]
     },
     {
-        "id": 4,
         "name": "App Store",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image.png?raw=true",
@@ -102,7 +98,6 @@
         ]
     },
     {
-        "id": 5,
         "name": "Coffee Shop",
         "description": "A modern e-commerce platform for selling and purchasing products online.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/image.png?raw=true",
@@ -129,7 +124,6 @@
         ]
     },
     {
-        "id": 6,
         "name": "Law BD",
         "description": "An online food ordering and delivery app with restaurant management dashboard.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project5/image.png?raw=true",
@@ -152,7 +146,6 @@
         ]
     },
     {
-        "id": 7,
         "name": "Dragon News",
         "description": "A developer portfolio template built with clean UI and animations.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project6/image.png?raw=true",
@@ -176,7 +169,6 @@
         ]
     },
     {
-        "id": 8,
         "name": "English Janala",
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image.png?raw=true",
