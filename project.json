@@ -1,7 +1,7 @@
 [    {
         "name": "Medical Bootcamps",
         "description": "Its a amedical botcampos where people can registration and participate the bootcamps to payment given after.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
         "technologies": [
             "React",
             "Node.js",
@@ -15,13 +15,14 @@
         ],
         "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
         "serverCode": "https://github.com/your-username/easybook-server",
-        "liveLink": "https://freelance-task-marketpla-6d7e7.web.app/",
+        "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
         "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability.",
         "screenshots": [
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image1.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image2.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image3.png?raw=true"
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/Image%201.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image%202.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image3.png?raw=true",
+                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image4.png?raw=true"
         ]
     },
     {
