@@ -1,6 +1,6 @@
 [    {
-        "name": "Freelancer Task",
-        "description": "A comprehensive online booking system for managing appointments and reservations.",
+        "name": "Medical Bootcamps",
+        "description": "Its a amedical botcampos where people can registration and participate the bootcamps to payment given after.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
         "technologies": [
             "React",
@@ -10,7 +10,8 @@
             "Tailwind CSS",
             "Firebase",
             "Firebase Auth",
-            "JWT"
+            "JWT",
+                "Stripe"
         ],
         "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
         "serverCode": "https://github.com/your-username/easybook-server",
