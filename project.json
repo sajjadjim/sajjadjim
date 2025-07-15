@@ -13,8 +13,8 @@
             "JWT",
                 "Stripe"
         ],
-        "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
-        "serverCode": "https://github.com/your-username/easybook-server",
+        "clientCode": "",
+        "serverCode": "",
         "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
         "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability.",
