@@ -52,7 +52,7 @@
     },
     {
         "name": "Lost and Found Items",
-        "description": "An e-learning platform offering online courses, video lectures, and interactive quizzes.",
+        "description": "Poeple find here their products and if anyone find other products they also post here products to get others products find.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
         "technologies": [
             "Firebase Auth",
