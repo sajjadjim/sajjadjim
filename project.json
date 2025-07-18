@@ -27,7 +27,7 @@
     },
     {
         "name": "Freelancer Task",
-        "description": "A comprehensive online booking system for managing appointments and reservations.",
+        "description": "A comprehensive online booking system for managing appointments and reservations.Manegment your all task and bids that.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
         "technologies": [
             "React",
