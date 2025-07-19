@@ -17,7 +17,7 @@
 
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web Developer%F0%9F%92%BB%F0%9F%92%BB;3+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web+Developer%F0%9F%92%BB%F0%9F%92%BB;3+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
 </p>
 
 <br>
