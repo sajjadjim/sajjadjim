@@ -101,6 +101,31 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image5.png?raw=true"
         ]
     },
+         {
+        "name": "Mini-Event-Scheduler",
+        "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
+        "technologies": [
+            "React",
+                "Typescript",
+                "MongoDB",
+                "dotEnv",
+            "Tailwind CSS",
+            "Node.js",
+            "Firebase",
+            "ExpressJs","Firebase-Auth"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Mini-Event-Scheduler-with-AI-Categorization",
+        "serverCode": "https://github.com/your-username/taskmaster-server",
+        "liveLink": "https://mini-event-scedeuler.web.app/",
+        "category": "Full stack",
+        "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image3.png?raw=true"
+        ]
+    },
     {
         "name": "App Store",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
