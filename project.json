@@ -116,7 +116,7 @@
             "ExpressJs","Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Mini-Event-Scheduler-with-AI-Categorization",
-        "serverCode": "https://github.com/your-username/taskmaster-server",
+        "serverCode": "https://github.com/sajjadjim/ts-express-server",
         "liveLink": "https://mini-event-scedeuler.web.app/",
         "category": "Full stack",
         "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
