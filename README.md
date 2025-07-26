@@ -7,7 +7,7 @@
 ## 🌟 About Me --> 
      
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->   
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me 
 <h3 align="center">A Junior level programmer and MERN stack Web Developer  from Bangladesh , Asia!!🥸</h3>  
      
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
