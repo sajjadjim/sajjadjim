@@ -54,7 +54,7 @@
     },
         {
         "name": "Grocery goON",
-        "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
+        "description": "Its's a grocery shop website , where category wise devided the products and people can find their valuable products.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true",
         "technologies": [
             "React",
@@ -67,10 +67,10 @@
                 "Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Grocery-GoON",
-        "serverCode": "",
+        "serverCode": "https://github.com/sajjadjim/server-grocery-GoON",
         "liveLink": "https://gocery-goon.netlify.app/",
         "category": "Full stack",
-        "short_description": "Its Delivary parcel system where parcel delivery processing.3 types of users are insists here.",
+        "short_description": "Its's a grocery shop that people can buy see products and , also see the products description and products exparidity date and . Near shop loaction can see where the products is now currently available that and see that also.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true"
         ]
