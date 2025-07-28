@@ -13,8 +13,8 @@
             "JWT",
                 "Stripe"
         ],
-        "clientCode": "",
-        "serverCode": "",
+        "clientCode": "https://github.com/sajjadjim/Medical_bootCamp",
+        "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
         "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
         "short_description": "It's a medical bootcamps website , where people singup and create account and participate the recently Bootcapm and search the bootcamp their loaction bacis also.And then show the dashboard the participate Bootcamps all List , and also show the bootCamps date.One User can pariticpate the multiple bootcamp also.Bootcamps participant confirm their successfully payment system.",
