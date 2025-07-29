@@ -268,4 +268,48 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image4.png?raw=true"
         ]
     }
+        ,
+    {
+        "name": "Kids School",
+        "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/image.png?raw=true",
+        "technologies": [
+            "Html",
+            "CSS",
+            "TailwindCSS",
+        ],
+        "clientCode": "",
+        "serverCode": "",
+        "liveLink": "https://sajjadjim.github.io/Assignment-2--Kids-school/",
+        "category": "Fronend",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/images/image2.png?raw=true"
+        ]
+    }
+           ,
+    {
+        "name": "Nature Platter",
+        "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/image.png?raw=true",
+        "technologies": [
+            "Html",
+            "CSS",
+            "TailwindCSS",
+        ],
+        "clientCode": "",
+        "serverCode": "",
+        "liveLink": "https://sajjadjim.github.io/Assignment--3--Nature-s-Platter/#item1",
+        "category": "Fronend",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image2.png?raw=true",
+                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image3.png?raw=true"
+        ]
+    }
+        
 ]
