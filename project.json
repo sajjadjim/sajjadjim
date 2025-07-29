@@ -311,4 +311,26 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image3.png?raw=true"
         ]
     }
+    ,
+    {
+        "name": "Bangladesh 2.0",
+        "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image.png?raw=true",
+        "technologies": [
+            "Html",
+            "CSS",
+            "TailwindCSS"
+        ],
+        "clientCode": "",
+        "serverCode": "",
+        "liveLink": "https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/",
+        "category": "Fronend",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image3.png?raw=true"
+        ]
+    }
 ]
