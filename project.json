@@ -1,4 +1,5 @@
-[    {
+[
+    {
         "name": "Medical Bootcamps",
         "description": "Its a amedical botcampos where people can registration and participate the bootcamps to payment given after.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
@@ -11,7 +12,7 @@
             "Firebase",
             "Firebase Auth",
             "JWT",
-                "Stripe"
+            "Stripe"
         ],
         "clientCode": "https://github.com/sajjadjim/Medical_bootCamp",
         "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
@@ -19,11 +20,11 @@
         "category": "Full Stack",
         "short_description": "It's a medical bootcamps website , where people singup and create account and participate the recently Bootcapm and search the bootcamp their loaction bacis also.And then show the dashboard the participate Bootcamps all List , and also show the bootCamps date.One User can pariticpate the multiple bootcamp also.Bootcamps participant confirm their successfully payment system.",
         "screenshots": [
-                 "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/Image%201.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image%202.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image3.png?raw=true",
-                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image4.png?raw=true"
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/image4.png?raw=true"
         ]
     },
     {
@@ -46,13 +47,13 @@
         "category": "Full Stack",
         "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability.",
         "screenshots": [
-                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image3.png?raw=true"
         ]
     },
-        {
+    {
         "name": "Grocery goON",
         "description": "Its's a grocery shop website , where category wise devided the products and people can find their valuable products.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true",
@@ -64,7 +65,7 @@
             "ExpressJs",
             "FirebaseAuth",
             "MongoDB",
-                "Firebase-Auth"
+            "Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Grocery-GoON",
         "serverCode": "https://github.com/sajjadjim/server-grocery-GoON",
@@ -95,12 +96,12 @@
         "category": "Full Stack",
         "short_description": "EduLearn helps users learn new skills through structured video courses and quizzes with user progress tracking.",
         "screenshots": [
-                 "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image3.png?raw=true"
         ]
-    },  
+    },
     {
         "name": "PickOn",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
@@ -127,19 +128,20 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image5.png?raw=true"
         ]
     },
-         {
+    {
         "name": "Mini-Event-Scheduler",
         "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
         "technologies": [
             "React",
-                "Typescript",
-                "MongoDB",
-                "dotEnv",
+            "Typescript",
+            "MongoDB",
+            "dotEnv",
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs","Firebase-Auth"
+            "ExpressJs",
+            "Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Mini-Event-Scheduler-with-AI-Categorization",
         "serverCode": "https://github.com/sajjadjim/ts-express-server",
@@ -147,7 +149,7 @@
         "category": "Full stack",
         "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
         "screenshots": [
-                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image3.png?raw=true"
@@ -183,8 +185,8 @@
             "React",
             "Firebase",
             "MongoDB",
-            "Express Js"
-            ,"Node.JS",
+            "Express Js",
+            "Node.JS",
             "Tailwind CSS",
             "Express.Js",
             "Firebase",
@@ -254,7 +256,7 @@
             "Html",
             "CSS",
             "TailwindCSS",
-                "JavaScript"
+            "JavaScript"
         ],
         "clientCode": "https://github.com/sajjadjim/English-Janala---Assignment-6-",
         "serverCode": "",
@@ -267,8 +269,7 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image3.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image4.png?raw=true"
         ]
-    }
-        ,
+    },
     {
         "name": "Kids School",
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
@@ -288,8 +289,7 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/images/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/images/image2.png?raw=true"
         ]
-    }
-           ,
+    },
     {
         "name": "Nature Platter",
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
@@ -308,30 +308,7 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image2.png?raw=true",
-                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image3.png?raw=true"
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/images/image3.png?raw=true"
         ]
     }
-              ,
-    {
-        "name": "Bangladesh 2.0",
-        "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image.png?raw=true",
-        "technologies": [
-            "Html",
-            "CSS",
-            "TailwindCSS"
-        ],
-        "clientCode": "",
-        "serverCode": "",
-        "liveLink": "https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/",
-        "category": "Fronend",
-        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
-        "screenshots": [
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image1.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image2.png?raw=true",
-                "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image/image3.png?raw=true"
-        ]
-    }
-        
 ]
