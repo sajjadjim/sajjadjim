@@ -249,6 +249,28 @@
         ]
     },
     {
+        "name": "Agency Minimal",
+        "description": "This a agency minimal page. Here Agency all of information are store.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/image.png?raw=true",
+        "technologies": [
+            "React",
+            "TailwindCSS",
+            "JavaScript",
+            "Docker"
+        ],
+        "clientCode": "https://github.com/sajjadjim/agency_minimal",
+        "serverCode": "",
+        "liveLink": "https://agency-minimal15.netlify.app/",
+        "category": "Fronend",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/images/image3.png?raw=true"
+        ]
+    },
+    {
         "name": "English Janala",
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image.png?raw=true",
