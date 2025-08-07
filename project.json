@@ -1,7 +1,7 @@
 [
     {
-        "name": "Medical Bootcamps",
-        "description": "Its a amedical botcampos where people can registration and participate the bootcamps to payment given after.",
+        "name": "Medical BootCamps",
+        "description": "Its a medical BootCamps where people can registration and participate the BootCamps to payment given after.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
         "technologies": [
             "React",
@@ -18,7 +18,7 @@
         "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
         "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
-        "short_description": "It's a medical bootcamps website , where people singup and create account and participate the recently Bootcapm and search the bootcamp their loaction bacis also.And then show the dashboard the participate Bootcamps all List , and also show the bootCamps date.One User can pariticpate the multiple bootcamp also.Bootcamps participant confirm their successfully payment system.",
+        "short_description": "It's a medical BootCamps website , where people sing-up and create account and participate the recently BootCamps and search the bootCamp their location basis also.And then show the dashboard the participate BootCamps all List , and also show the bootCamps date.One User can participate the multiple BootCamps also.BootCamps participant confirm their successfully payment system.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/webpage%20Main.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/medical%20bootcamps/image/Image%201.png?raw=true",
@@ -45,7 +45,7 @@
         "serverCode": "https://github.com/your-username/easybook-server",
         "liveLink": "https://freelance-task-marketpla-6d7e7.web.app/",
         "category": "Full Stack",
-        "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability.",
+        "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability. It allows users to create accounts, book appointments, and manage their reservations. The app features a user-friendly interface with a calendar view, appointment details, and notifications. Admins can manage users and appointments through a secure dashboard.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/homePage.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/screenshots/image1.png?raw=true",
@@ -71,14 +71,14 @@
         "serverCode": "https://github.com/sajjadjim/server-grocery-GoON",
         "liveLink": "https://gocery-goon.netlify.app/",
         "category": "Full stack",
-        "short_description": "Its's a grocery shop that people can buy see products and , also see the products description and products exparidity date and . Near shop loaction can see where the products is now currently available that and see that also.",
+        "short_description": "Its's a grocery shop that people can buy see products and , also see the products description and products exparidity date and . Near shop location can see where the products is now currently available that and see that also.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true"
         ]
     },
     {
         "name": "Lost and Found Items",
-        "description": "Poeple find here their products and if anyone find other products they also post here products to get others products find.",
+        "description": "People find here their products and if anyone find other products they also post here products to get others products find.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
         "technologies": [
             "Firebase Auth",
@@ -94,7 +94,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/assignment%2011%20server",
         "liveLink": "https://lost-and-found-website-c7da7.web.app/",
         "category": "Full Stack",
-        "short_description": "EduLearn helps users learn new skills through structured video courses and quizzes with user progress tracking.",
+        "short_description": "People find here their products and if anyone find other products they also post here products to get others products find. And also people can see their all lost and found items.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project2/image1.png?raw=true",
@@ -104,7 +104,7 @@
     },
     {
         "name": "PickOn",
-        "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
+        "description": "PickOn is a full-stack parcel delivery system with user roles for customers, delivery personnel, and admins.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image.png?raw=true",
         "technologies": [
             "React",
@@ -119,7 +119,7 @@
         "serverCode": "https://github.com/sajjadjim/PickOn-server",
         "liveLink": "https://delivery-project-13c2d.web.app/",
         "category": "Full stack",
-        "short_description": "Its Delivary parcel system where parcel delivery processing.3 types of users are insists here.",
+        "short_description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project8/image1.png?raw=true",
@@ -147,7 +147,7 @@
         "serverCode": "https://github.com/sajjadjim/ts-express-server",
         "liveLink": "https://mini-event-scedeuler.web.app/",
         "category": "Full stack",
-        "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
+        "short_description": "People can add new task and also delete the task and also update the task and also find the task by category wise.And also view other peole task and also find the task by category wise.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/images/image1.png?raw=true",
@@ -157,7 +157,7 @@
     },
     {
         "name": "App Store",
-        "description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
+        "description": "It's a app store website where people can find their valuable apps and also find the app details and also find the app reviews.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image.png?raw=true",
         "technologies": [
             "React",
@@ -170,7 +170,7 @@
         "serverCode": "https://github.com/your-username/taskmaster-server",
         "liveLink": "https://app-store-45c21.web.app/app",
         "category": "Frontend",
-        "short_description": "TaskMaster is a full-featured task management tool with kanban boards, labels, and team collaboration.",
+        "short_description": "It's a app store website where people can find their valuable apps and also find the app details and also find the app reviews.Update and new app also add and delete the app.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project3/image2.png?raw=true",
@@ -179,7 +179,7 @@
     },
     {
         "name": "Coffee Shop",
-        "description": "A modern e-commerce platform for selling and purchasing products online.",
+        "description": "It's coffee shop website some demo coffee are available and you also add new coffee if you want.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/image.png?raw=true",
         "technologies": [
             "React",
@@ -196,7 +196,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/server-side-coffee-main",
         "liveLink": "https://coffees-sajjadjim.netlify.app/",
         "category": "Full Stack",
-        "short_description": "ShopNest is a complete e-commerce site with cart, payment integration, admin dashboard, and product management.",
+        "short_description": "It's coffee shop website some demo coffee are available and you also add new coffee if you want.You can change also coffee image and details update also.It's a learning purpose website.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project4/imag2.png?raw=true",
@@ -227,7 +227,7 @@
     },
     {
         "name": "Dragon News",
-        "description": "A developer portfolio template built with clean UI and animations.",
+        "description": "Here the ews are available and you can also read news if you want.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project6/image.png?raw=true",
         "technologies": [
             "React",
@@ -241,7 +241,7 @@
         "serverCode": "",
         "liveLink": "https://dragon-news-452fd.web.app/",
         "category": "Frontend",
-        "short_description": "PortfolioX is a modern, responsive developer portfolio with sections for projects, blogs, and contact form.",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.Users can search, filter, and comment on posts.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project6/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project6/image2.png?raw=true",
@@ -262,7 +262,7 @@
         "serverCode": "",
         "liveLink": "https://agency-minimal15.netlify.app/",
         "category": "Fronend",
-        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
+        "short_description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.All of developer information are store here and also developer can update their information and also delete their information.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/agency_minimal/images/image1.png?raw=true",
@@ -290,6 +290,28 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image3.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image4.png?raw=true"
+        ]
+    },
+    {
+        "name": "Tour Traveling",
+        "description": "It's a learning and practice purpose website. This website is traveling website .People can find their traveling place and also find the traveling guide and also find the traveling package.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image.png?raw=true",
+        "technologies": [
+            "Html",
+            "CSS",
+            "TailwindCSS",
+            "JavaScript"
+        ],
+        "clientCode": "https://github.com/sajjadjim",
+        "serverCode": "",
+        "liveLink": "https://traveling-webpage-eight.vercel.app/",
+        "category": "Fronend",
+        "short_description": "It's a learning and practice purpose website. This website is traveling website .People can find their traveling place and also find the traveling guide and also find the traveling package.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image/image3.png?raw=true"
         ]
     },
     {
