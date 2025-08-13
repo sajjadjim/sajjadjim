@@ -73,6 +73,7 @@
         "category": "Full Stack",
         "short_description": "People find here their products and if anyone find other products they also post here products to get others products find. And also people can see their all lost and found items.",
         "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Lost%20and%20items/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Lost%20and%20items/image/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Lost%20and%20items/image/image2.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Lost%20and%20items/image/image3.png?raw=true",
@@ -82,7 +83,7 @@
     },
     {
         "name": "Grocery goON",
-        "description": "Its's a grocery shop website , where category wise devided the products and people can find their valuable products.",
+        "description": "Its's a grocery shop website , where category wise divided the products and people can find their valuable products.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true",
         "technologies": [
             "React",
