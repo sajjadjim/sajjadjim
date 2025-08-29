@@ -69,7 +69,7 @@
 <p><a href="https://github.com/sajjadjim/Projects-Link/blob/main/README.md" >📚 Latest works/Projects-</p>
 
 
-##Some Usefull site :
+#Some Usefull site :
 - <p><a href="https://code-decode-two.vercel.app/" >Code || Decode</p>
 
 <h2 align="left"> :mailbox: Contact with me:</h2>
@@ -80,7 +80,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/sajjad.hossain.jim)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801600101810)
-![snake animation](https://github.com/sajjadjim/sajjadjim/blob/output/github-contribution-grid-snake2.svg)
+
 <!-- Contact Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
 </div>
