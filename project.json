@@ -86,7 +86,7 @@
         "description": "Its's a car buy website hwre people can see the letest car on the website and details see.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image.png?raw=true",
         "technologies": [
-            "NextJs",
+            "Next.js",
             "Tailwind CSS",
             "Node.js",
             "Firebase",
@@ -407,5 +407,6 @@
         ]
     }
 ]
+
 
 
