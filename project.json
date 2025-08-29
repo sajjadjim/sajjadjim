@@ -304,7 +304,7 @@
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Project%207/image.png?raw=true",
         "technologies": [
-            "Html",
+            "HTML",
             "CSS",
             "TailwindCSS",
             "JavaScript"
@@ -326,7 +326,7 @@
         "description": "It's a learning and practice purpose website. This website is traveling website .People can find their traveling place and also find the traveling guide and also find the traveling package.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/traveling/image.png?raw=true",
         "technologies": [
-            "Html",
+            "HTML",
             "CSS",
             "TailwindCSS",
             "JavaScript"
@@ -348,7 +348,7 @@
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/kids%20school/image.png?raw=true",
         "technologies": [
-            "Html",
+            "HTML",
             "CSS",
             "TailwindCSS"
         ],
@@ -368,7 +368,7 @@
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/nature%20plater/image.png?raw=true",
         "technologies": [
-            "Html",
+            "HTML",
             "CSS",
             "TailwindCSS"
         ],
@@ -390,7 +390,7 @@
         "description": "A blogging platform tailored for developers with markdown support and syntax highlighting.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Bangladesh%202.0/image.png?raw=true",
         "technologies": [
-            "Html",
+            "HTML",
             "CSS",
             "TailwindCSS"
         ],
@@ -407,6 +407,7 @@
         ]
     }
 ]
+
 
 
 
