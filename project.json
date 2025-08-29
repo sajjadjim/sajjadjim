@@ -81,6 +81,32 @@
              "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Lost%20and%20items/image/image5.png?raw=true"
         ]
     },
+       {
+        "name": "Car GoON",
+        "description": "Its's a car buy website hwre people can see the letest car on the website and details see.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image.png?raw=true",
+        "technologies": [
+            "NextJs",
+            "Tailwind CSS",
+            "Node.js",
+            "Firebase",
+            "ExpressJs",
+            "FirebaseAuth",
+            "MongoDB",
+            "Firebase-Auth"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Grocery-GoON",
+        "serverCode": "https://github.com/sajjadjim/server-grocery-GoON",
+        "liveLink": "https://car-go-on.vercel.app/home",
+        "category": "Full stack",
+        "short_description": "Its's a car buy website hwre people can see the letest car on the website and details see.And also add new car information after create a account website.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image/image1.png?raw=true",
+           "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/car_go_on/image/image4.png?raw=true"
+        ]
+    },
     {
         "name": "Grocery goON",
         "description": "Its's a grocery shop website , where category wise divided the products and people can find their valuable products.",
@@ -381,3 +407,4 @@
         ]
     }
 ]
+
