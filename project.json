@@ -6,7 +6,7 @@
         "technologies": [
             "React",
             "Node.js",
-            "Express",
+            "Express.js",
             "MongoDB",
             "Tailwind CSS",
             "Firebase",
@@ -34,7 +34,7 @@
         "technologies": [
             "React",
             "Node.js",
-            "Express",
+            "Express.js",
             "MongoDB",
             "Tailwind CSS",
             "Firebase",
@@ -63,7 +63,7 @@
             "Tailwind CSS",
             "React",
             "Node.Js",
-            "Express Js",
+            "Express.js",
             "MongoDB",
             "JWT"
         ],
@@ -90,7 +90,7 @@
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs",
+            "Express.js",
             "FirebaseAuth",
             "MongoDB",
             "Firebase-Auth"
@@ -116,7 +116,7 @@
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs",
+            "Express.js",
             "FirebaseAuth",
             "MongoDB",
             "Firebase-Auth"
@@ -140,7 +140,7 @@
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs",
+            "Express.js",
             "FirebaseAuth",
             "MongoDB"
         ],
@@ -169,7 +169,7 @@
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs",
+            "Express.js",
             "Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Mini-Event-Scheduler-with-AI-Categorization",
@@ -193,7 +193,7 @@
             "Tailwind CSS",
             "Node.js",
             "Firebase",
-            "ExpressJs"
+            "Express.js"
         ],
         "clientCode": "https://github.com/sajjadjim/app-store",
         "serverCode": "https://github.com/your-username/taskmaster-server",
@@ -217,7 +217,7 @@
             "Express Js",
             "Node.JS",
             "Tailwind CSS",
-            "Express.Js",
+            "Express.js",
             "Firebase",
             "Firebase Auth"
         ],
@@ -407,6 +407,7 @@
         ]
     }
 ]
+
 
 
 
