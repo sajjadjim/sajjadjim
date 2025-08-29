@@ -12,7 +12,7 @@
             "Firebase",
             "Firebase Auth",
             "JWT",
-            "Stripe"
+            "Docker"
         ],
         "clientCode": "https://github.com/sajjadjim/Medical_bootCamp",
         "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
@@ -39,7 +39,7 @@
             "Tailwind CSS",
             "Firebase",
             "Firebase Auth",
-            "JWT"
+            "Docker"
         ],
         "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
         "serverCode": "https://github.com/your-username/easybook-server",
@@ -65,7 +65,7 @@
             "Node.Js",
             "Express.js",
             "MongoDB",
-            "JWT"
+            "Docker"
         ],
         "clientCode": "https://github.com/sajjadjim/Items-Lost-And-Found",
         "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/assignment%2011%20server",
@@ -407,6 +407,7 @@
         ]
     }
 ]
+
 
 
 
