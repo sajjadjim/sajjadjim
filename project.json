@@ -83,7 +83,7 @@
     },{
         "name": "Doctor Appointment system",
         "description": "A web application for managing doctor appointments.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/doctor_appointment/image.png?raw=true",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/image.app.png?raw=true",
         "technologies": [
             "React",
             "Tailwind CSS",
@@ -100,7 +100,13 @@
         "category": "Full stack",
         "short_description": "A web application for managing doctor appointments.",
         "screenshots": [
-            ""`
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/image.app.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image4.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image5.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/images%20Projects/Project%201/Doctor%20appointment/images/image6.png?raw=true"
         ]
     },
        {
