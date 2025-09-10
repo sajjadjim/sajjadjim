@@ -42,7 +42,7 @@
             "Docker"
         ],
         "clientCode": "https://github.com/sajjadjim/Freelancer-Website",
-        "serverCode": "https://github.com/your-username/easybook-server",
+        "serverCode": "https://github.com/sajjadjim/server-side-code-Freelancer-",
         "liveLink": "https://freelance-task-marketpla-6d7e7.web.app/",
         "category": "Full Stack",
         "short_description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability. It allows users to create accounts, book appointments, and manage their reservations. The app features a user-friendly interface with a calendar view, appointment details, and notifications. Admins can manage users and appointments through a secure dashboard.",
