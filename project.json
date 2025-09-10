@@ -81,8 +81,8 @@
              "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Lost%20and%20items/image/image5.png?raw=true"
         ]
     },{
-        "name": "Doctor Appointment system",
-        "description": "A web application for managing doctor appointments.",
+        "name": "Doctor Appointment",
+        "description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Doctor%20appointment/image.png?raw=true",
         "technologies": [
             "React",
@@ -98,7 +98,7 @@
         "serverCode": "https://github.com/sajjadjim/serverside-code-manegment-code",
         "liveLink": "https://doctore-appointment-system.web.app/",
         "category": "Full stack",
-        "short_description": "A web application for managing doctor appointments.",
+        "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Doctor%20appointment/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Doctor%20appointment/images/image1.png?raw=true",
