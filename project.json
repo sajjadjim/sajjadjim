@@ -121,7 +121,7 @@
             "Firebase-Auth"
         ],
         "clientCode": "https://github.com/sajjadjim/Doctor-Appointment-Management-System",
-        "serverCode": "https://github.com/sajjadjim/serverside-code-manegment-code",
+        "serverCode": "https://github.com/sajjadjim-cse/doctor-apppointment-server",
         "liveLink": "https://doctore-appointment-system.web.app/",
         "category": "Full stack",
         "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
@@ -461,6 +461,7 @@
         ]
     }
 ]
+
 
 
 
