@@ -1,5 +1,6 @@
-# Hi there, I'm  JIM! 👋      
-<a href="https://sajjadjim.web.app">     b
+# Hi there, I'm  JIM! 👋   
+<a href="https://sajjadjim.web.app">     
+   
 <!-- <img src="https://github.com/sajjadjim/sajjadjim/blob/main/sajjadjim.png?raw=true" /> -->    
 </a> 
    
@@ -7,13 +8,20 @@
 ## 🌟 About Me --> 
       
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
-<h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
+<p>
+   <p aligh="left">
+      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>  
      
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently improve my Web Development skill. 
 - 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
 - Check out my some post:  <a href="https://medium.com/@sajjadjim" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="sajjadjim" height="25" width="45" target="_blank" />
+   </p>
+<p align="right">
+  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-1/557776066_122146784096636204_2707475415923587575_n.jpg?stp=c0.256.1536.1536a_dst-jpg_s320x320_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=aYgd7eBZ1IIQ7kNvwH33wf3&_nc_oc=AdmN8I7mdIWiTLNGt7DjUrSFwRUueIZB_wnqwVTbwEwVXj_6IcbfvQxiHn1Bd11sG18&_nc_zt=24&_nc_ht=scontent.fdac99-1.fna&_nc_gid=eauxzdpfE4noxCoHrQ6j5g&oh=00_Afd3Ft_dt00xvM3zNYLNl0d1ALIAifr749v3YOAghO9psQ&oe=68FAF653" alt="Sajjad jim profile picture" width="120" style="border-radius:70%;"/>
+</p>  
+</p> 
 
 ## Introduction
 <p align="center">
