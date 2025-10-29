@@ -94,9 +94,9 @@
             "MongoDB",
             "Firebase-Auth"
         ],
-        "clientCode": "https://github.com/sajjadjim/Data-management-system",
-        "serverCode": "https://github.com/sajjadjim-cse/product-manager-database",
-        "liveLink": "https://electronic-products-management.web.app/",
+        "clientCode": "https://github.com/sajjadjim/Food-sharing-platform",
+        "serverCode": "https://github.com/sajjadjim/food-sharing-platform-server",
+        "liveLink": "https://food-sharing-sajjadjim.netlify.app/",
         "category": "Full stack",
         "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
         "screenshots": [
