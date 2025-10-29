@@ -81,6 +81,32 @@
              "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Lost%20and%20items/image/image5.png?raw=true"
         ]
     },{
+        "name": "Food Sharing Platform",
+        "description": "A web application for sharing food among people. Users can post available food items and claim food items posted by others.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Food%20Sharing/image.png?raw=true",
+        "technologies": [
+            "React",
+            "Tailwind CSS",
+            "Node.js",
+            "Firebase",
+            "Express.js",
+            "FirebaseAuth",
+            "MongoDB",
+            "Firebase-Auth"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Data-management-system",
+        "serverCode": "https://github.com/sajjadjim-cse/product-manager-database",
+        "liveLink": "https://electronic-products-management.web.app/",
+        "category": "Full stack",
+        "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image.png?raw=true",
+"https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image4.png?raw=true"
+        ]
+    },{
         "name": "Product Manager",
         "description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image.png?raw=true",
