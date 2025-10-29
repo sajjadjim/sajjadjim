@@ -83,7 +83,7 @@
     },{
         "name": "Food Sharing Platform",
         "description": "A web application for sharing food among people. Users can post available food items and claim food items posted by others.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Food%20Sharing/image.png?raw=true",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/image.jpeg?raw=true",
         "technologies": [
             "React",
             "Tailwind CSS",
@@ -98,13 +98,13 @@
         "serverCode": "https://github.com/sajjadjim/food-sharing-platform-server",
         "liveLink": "https://food-sharing-sajjadjim.netlify.app/",
         "category": "Full stack",
-        "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
+        "short_description": "A web application for sharing food among people. Users can post available food items and claim food items posted by others. The platform promotes community engagement and reduces food waste by facilitating the exchange of surplus food.",
         "screenshots": [
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image.png?raw=true",
-"https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image1.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image2.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image3.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image/image4.png?raw=true"
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/image.jpeg?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/images/image1.jpeg?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/images/image2.jpeg?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/images/image3.jpeg?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/images/image4.jpeg?raw=true"
         ]
     },{
         "name": "Product Manager",
