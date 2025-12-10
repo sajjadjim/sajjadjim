@@ -2,7 +2,7 @@
     {
         "name": "InterviewMate",
         "description": "It's a mock interview test demo website . where the candidate can open account and they can application for their suitable topic base basic / standard / Realtime Mocktest interview practice.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/webpage%20Main.png?raw=true",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/image.png?raw=true",
         "technologies": [
             "Next.js",
             "Node.js",
@@ -20,11 +20,11 @@
         "category": "Full Stack",
         "short_description": "It's a mock interview test demo website . where the candidate can open account and they can application for their suitable topic base basic / standard / Realtime Mocktest interview practice.",
         "screenshots": [
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/webpage%20Main.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/Image%201.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image%202.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image3.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image4.png?raw=true"
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image4.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image5.png?raw=true"
         ]
     },
     {
