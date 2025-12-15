@@ -18,7 +18,7 @@
         "serverCode": "",
         "liveLink": "https://interviewmate-bd.vercel.app/",
         "category": "Full Stack",
-        "short_description": "It's a mock interview test demo website . where the candidate can open account and they can application for their suitable topic base basic / standard / Realtime Mocktest interview practice.",
+        "short_description": "It's a mock interview test demo website . where the candidate can open account and they can application for their suitable topic base basic / standard / Realtime Mocktest interview practice.Three types of users here . Admin , Interviewer , and Candidate . Admin can manage all users and also manage all interview topics . Interviewer can create new interview topics and also manage their created interview topics . Candidate can apply for their suitable interview topic and also see their all applied interview topics history.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image1.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/interviewMate_image/images/image2.png?raw=true",
@@ -53,6 +53,35 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image%202.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image3.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image4.png?raw=true"
+        ]
+    },{
+        "name": "PickOn Delivary System",
+        "description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/image.png?raw=true",
+        "technologies": [
+            "React",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Tailwind CSS",
+            "Firebase",
+            "Firebase Auth",
+            "JWT"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Courier-and-Parcel-Management-System",
+        "serverCode": "https://github.com/sajjadjim/server-Courier-and-Parcel-Management-System",
+        "liveLink": "https://pickon-bd.netlify.app/",
+        "category": "Full Stack",
+        "short_description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/image.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image4.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image5.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image6.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image7.png?raw=true",
         ]
     },
     {
