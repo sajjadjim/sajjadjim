@@ -32,13 +32,13 @@
 <br>
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics</h2>
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&theme=onedark&hide_border=true&&count_private=true&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=onedark&layout=compact&langs_count=10"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10"/>
 </p> 
-<p align="center" align="left" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sajjadjim&theme=onedark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="Sajjad Hossain JIM" /></a>
+<p align="center" align="left" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sajjadjim&theme=tokyonight&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="Sajjad Hossain JIM" /></a>
 </p>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=onedark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=tokyonight" />
 </div>
  <br> 
  
