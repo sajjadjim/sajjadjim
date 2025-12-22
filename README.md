@@ -3,16 +3,13 @@
     
 <!-- <img src="https://github.com/sajjadjim/sajjadjim/blob/main/sajjadjim.png?raw=true" /> -->    
 </a>  
-     
-<!-- Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here you can find some of my projects, contributions, and more about me.
-## 🌟 About Me --> 
-      
+
+## 🌟 About Me -->     
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
 <p>
    <p aligh="left">
-      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>  
-     
+      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>      
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently improve my Web Development skill. 
 - 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
@@ -28,22 +25,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web+Developer%F0%9F%92%BB%F0%9F%92%BB;3+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+NextJS+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
 </p>
 
+
 <br>
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics</h2>
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=sajjadjim&show_icons=true&theme=react&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=react&layout=compact&langs_count=10"/>
 </p> 
-<p align="center" align="left" > <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadjim&" alt="sajjadjim" /> </p>
+<p align="center" align="left" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sajjadjim&theme=nightowl&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="Sajjad Hossain JIM" /></a>
+</p>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=swift" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=react" />
 </div>
  <br>   
 <br>
 <!-- <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=sajjadjim&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div> -->
-
 
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
