@@ -40,7 +40,8 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=onedark" />
 </div>
- <br>   
+ <br> 
+ 
 <br>
 <!-- <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=sajjadjim&limit=5&theme=dark&combine_all_yearly_contributions=true" />
