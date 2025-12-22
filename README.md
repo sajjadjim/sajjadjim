@@ -9,12 +9,15 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
 <p>
    <p aligh="left">
-      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>      
+      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>  
+       
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently improve my Web Development skill. 
 - 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
+    
 - Check out my some post:  <a href="https://medium.com/@sajjadjim" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="sajjadjim" height="25" width="45" target="_blank" />
    </p>
+    
 <p align="right">
   <img src="https://github.com/sajjadjim/sajjadjim/blob/main/images/sajjadjim_image.png?raw=true" alt="Sajjad jim profile picture" width="120" style="border-radius:70%;"/>
 </p>  
