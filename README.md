@@ -5,7 +5,7 @@
 </a>    
   
  
-## 🌟 About Myself        
+## 🌟 About Myself         
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
 <p>
