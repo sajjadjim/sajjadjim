@@ -92,8 +92,9 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,php,html,css" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,vue" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express" /> |
 | **Database/Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" /> |
 | **Tools/DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,postman,tailwind,redux,vercel,netlify" /> |
 
