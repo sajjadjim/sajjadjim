@@ -61,7 +61,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
 
-<h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Languages :</h2>
+<!-- <h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Languages :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,php,html,css&perline=5"/>
@@ -73,9 +73,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue&perline=5"/>
   </a>
-</p>
+</p> -->
 
-<h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Dev Tools & Packages :</h2>
+<!-- <h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Dev Tools & Packages :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,redux,mongodb,firebase,git,postman,tailwindcss,docker&perline=5"/>
@@ -86,7 +86,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=netlify,vercel,electron&perline=5"/>
   </a>
-</p>
+</p> -->
+
+<h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Framework :</h2>  Tech Stack & Tools 
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,php,html,css" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue" /> |
+| **Database/Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" /> |
+| **Tools/DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,postman,tailwind,redux,vercel,netlify" /> |
+
+---
 
 
 
