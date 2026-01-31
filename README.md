@@ -19,9 +19,9 @@
 - Check out my some post:  <a href="https://medium.com/@sajjadjim" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="sajjadjim" height="25" width="45" target="_blank" />
    </p>
     
-<p align="right">
+<!-- <p align="right">
   <img src="https://github.com/sajjadjim/sajjadjim/blob/main/images/sajjadjim_image.png?raw=true" alt="Sajjad jim profile picture" width="120" style="border-radius:70%;"/>
-</p>  
+</p>   -->
 </p> 
 
 ## Introduction
