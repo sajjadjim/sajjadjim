@@ -35,7 +35,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10"/>
 </p> 
 <p align="center" align="left" >
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=whatsapp-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+    <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=whatsapp-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
 </p>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=tokyonight" />
