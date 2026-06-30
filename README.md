@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
 <p>
    <p aligh="left">
-      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸</h3>  
+      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸 </h3>  
        
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently improve my Web Development skill. 
