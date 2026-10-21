@@ -28,6 +28,17 @@
   <img src="https://www.gitskins.com/api/section/galaxy?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim galaxy visual" />
 </p>
 
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
+<p align="center">
+  <img height="200" src="https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://laguages-stats-sajjadjim.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10" />
+</p> 
+<p align="center" align="left" >
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
+</p>
+
+
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
          <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
@@ -73,18 +84,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
-<!-- Activity Graph
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
-<div align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadjim&custom_title=My%20Contribution%20Graph&bg_color=FFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-</div> 
- -->
-<h2>Most use tools</h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated technology stack" />
-</picture>
 
 
 <h2>Built, shipped, Timeline</h2>
