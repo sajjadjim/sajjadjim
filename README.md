@@ -100,3 +100,35 @@
 <p><a href="https://github.com/sajjadjim">GitHub</a> &nbsp;·&nbsp; <a href="http://sajjadjim.web.app">Website</a> &nbsp;·&nbsp; <a href="https://x.com/sajjad_jim15">X</a></p>
 <p><sub>SAJJAD HOSAIN JIM · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
+
+
+<h1 align="center">SAJJAD HOSAIN JIM</h1>
+<p align="center">Frontend or full-stack engineer</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim galaxy visual" />
+</p>
+
+<p align="center"><b>73</b> public repositories, <b>592</b> stars, <b>383</b> contributions in the last year, a longest streak of <b>15</b> days and <b>38</b> followers.</p>
+
+## Brightest stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim projects visual" />
+</p>
+
+## Elements
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim stack visual" />
+</p>
+
+## Transmission
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim social visual" />
+</p>
+
+<p align="center"><a href="https://github.com/sajjadjim">GitHub</a> · <a href="http://sajjadjim.web.app">Website</a> · <a href="https://x.com/sajjad_jim15">X</a></p>
+
+<p align="center"><sub>SAJJAD HOSAIN JIM · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
