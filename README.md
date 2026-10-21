@@ -30,6 +30,7 @@
 
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
+<!--
 <p align="center">
   <img height="200" src="https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight" />
   <img height="200em" src="https://laguages-stats-sajjadjim.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10" />
@@ -37,7 +38,7 @@
 <p align="center" align="left" >
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
 </p>
-
+-->
 
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
