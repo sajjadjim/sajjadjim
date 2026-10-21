@@ -17,14 +17,11 @@
 - Check out my some post:  <a href="https://medium.com/@sajjadjim" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="sajjadjim" height="25" width="45" target="_blank" />
    </p>
     
-<!-- <p align="right">
-  <img src="https://github.com/sajjadjim/sajjadjim/blob/main/images/sajjadjim_image.png?raw=true" alt="Sajjad jim profile picture" width="120" style="border-radius:70%;"/>
-</p>   -->
 </p> 
 
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web+Developer%F0%9F%92%BB%F0%9F%92%BB;4+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+NextJS+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web+Developer%F0%9F%92%BB%F0%9F%92%BB;5+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+NextJS+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
 </p>
 
 
