@@ -94,8 +94,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FInterview-Mate%2Csajjadjim%2FMedical_bootCamp%2Csajjadjim%2FIOT-projects%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FInterview-Mate%2Csajjadjim%2FMedical_bootCamp%2Csajjadjim%2FIOT-projects%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project launch timeline" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project launch timeline" />
 </picture>
 
 
