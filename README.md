@@ -29,9 +29,9 @@
 </p>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
 <!--
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
+
 <p align="center">
   <img height="200" src="https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight" />
   <img height="200em" src="https://laguages-stats-sajjadjim.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10" />
@@ -43,16 +43,20 @@
 
 
 ## 🏆 Achievements
+<!--
 <p align="center" border="2px solid white"> 
          <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
+-->
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sajjadjim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
+
 
 
 <h2 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Framework :</h2>  Tech Stack & Tools 
@@ -100,29 +104,11 @@
   <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project launch timeline" />
 </picture>
 
-
 ## The city I built this year
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/city?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim city visual" />
 </p>
-
-
-<table width="100%">
-<tr><td width="28%"><strong>Languages & tools</strong></td><td>JavaScript | TypeScript | HTML | CSS | C | C++ | SCSS | Java</td></tr>
-<tr><td><strong>Profile focus</strong></td><td>Interview-Mate · Medical_bootCamp · Coffee_Bill_-Resturant</td></tr>
-<tr><td><strong>GitHub signal</strong></td><td>77 repositories · 587 stars · 431 contributions</td></tr>
-</table>
-
-## Open-source signal
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=sajjadjim&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="SAJJAD HOSAIN JIM GitHub contribution summary" />
-
-<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=sajjadjim&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="SAJJAD HOSAIN JIM contribution activity" />
-
-</div>
 
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
