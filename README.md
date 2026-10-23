@@ -62,7 +62,7 @@
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,vue" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express" /> |
-| **Database/Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" /> |
+| **Database/Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase" /> |
 | **Tools/DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,postman,tailwind,redux,vercel,netlify" /> |
 
 ---
@@ -102,8 +102,42 @@
 </picture>
 
 
-<a href="https://github.com/sajjadjim">
-<img src="https://www.gitskins.com/api/section/heatmap?username=sajjadjim&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="sajjadjim animated contribution jet" />
-</a>
+## The city I built this year
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim city visual" />
+</p>
+
+## Technology arsenal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=sajjadjim&theme=github-dark&logos=JavaScript%2CTypeScript%2CHTML%2CCSS%2CC%2CC%2B%2B%2CSCSS%2CJava&v=signature-cap-tip-languages-3" alt="SAJJAD HOSAIN JIM technology stack" />
+
+</div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>JavaScript | TypeScript | HTML | CSS | C | C++ | SCSS | Java</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>Interview-Mate · Medical_bootCamp · Coffee_Bill_-Resturant</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>77 repositories · 587 stars · 431 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=sajjadjim&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="SAJJAD HOSAIN JIM GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=sajjadjim&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="SAJJAD HOSAIN JIM contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/sajjadjim"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/sajjadjim?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/sajjadjim"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
