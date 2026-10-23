@@ -67,7 +67,6 @@
 
 ---
 
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
 <h2 align="left"> :mailbox: Contact with me:</h2>
 <div align="center">
@@ -108,13 +107,6 @@
   <img src="https://www.gitskins.com/api/section/city?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim city visual" />
 </p>
 
-## Technology arsenal
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=sajjadjim&theme=github-dark&logos=JavaScript%2CTypeScript%2CHTML%2CCSS%2CC%2CC%2B%2B%2CSCSS%2CJava&v=signature-cap-tip-languages-3" alt="SAJJAD HOSAIN JIM technology stack" />
-
-</div>
 
 <table width="100%">
 <tr><td width="28%"><strong>Languages & tools</strong></td><td>JavaScript | TypeScript | HTML | CSS | C | C++ | SCSS | Java</td></tr>
