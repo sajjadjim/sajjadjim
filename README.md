@@ -9,6 +9,7 @@
 </picture>
 </div>
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
     
 ## 🌟 About Myself           
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
@@ -28,6 +29,7 @@
   <img src="https://www.gitskins.com/api/section/galaxy?username=sajjadjim&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4" alt="sajjadjim galaxy visual" />
 </p>
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
 <!--
@@ -39,6 +41,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
 </p>
 -->
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
@@ -64,6 +68,8 @@
 | **Tools/DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,postman,tailwind,redux,vercel,netlify" /> |
 
 ---
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
 <h2 align="left"> :mailbox: Contact with me:</h2>
@@ -99,9 +105,8 @@
 </picture>
 
 
-<p align="center">
-  <img src="https://github.com/sajjadjim/sajjadjim/raw/main/sajjadjim-space-shooter.gif" alt="Space Shooter" width="100%" />
-</p>
-
+<a href="https://github.com/sajjadjim">
+<img src="https://www.gitskins.com/api/section/heatmap?username=sajjadjim&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="sajjadjim animated contribution jet" />
+</a>
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
