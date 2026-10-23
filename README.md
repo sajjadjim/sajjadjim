@@ -132,12 +132,5 @@
 
 </div>
 
-## Let’s build useful software
-
-I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
-
-<p align="center"><a href="https://github.com/sajjadjim"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/sajjadjim?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/sajjadjim"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
-
-<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
