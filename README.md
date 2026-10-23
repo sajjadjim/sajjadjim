@@ -9,7 +9,6 @@
 </picture>
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
     
 ## 🌟 About Myself           
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
@@ -42,7 +41,6 @@
 </p>
 -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🏆 Achievements
 <p align="center" border="2px solid white"> 
@@ -69,7 +67,6 @@
 
 ---
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
 <h2 align="left"> :mailbox: Contact with me:</h2>
