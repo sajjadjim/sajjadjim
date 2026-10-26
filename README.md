@@ -43,13 +43,13 @@
 
 
 ## 🏆 Achievements
-<!--
+
 <p align="center" border="2px solid white"> 
          <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
--->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -92,7 +92,7 @@
   </a>
 </div>
 
-
+<!--
 <h2>Built, shipped, Timeline</h2>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FInterview-Mate%2Csajjadjim%2FMedical_bootCamp%2Csajjadjim%2FIOT-projects%2Csajjadjim%2FLoan-Management-Website&variant=wow&v=wow-projects-1&mode=light" />
@@ -103,6 +103,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project launch timeline" />
 </picture>
-
+-->
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
