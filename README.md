@@ -29,7 +29,7 @@
 </p>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sajjadjim&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-<!--
+
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
 
 <p align="center">
@@ -39,7 +39,7 @@
 <p align="center" align="left" >
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
 </p>
--->
+
 
 
 ## 🏆 Achievements
