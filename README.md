@@ -72,25 +72,24 @@
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
-<h2 align="left"> :mailbox: Contact with me:</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sajjadjim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.facebook.com/sajjad.hossain.jim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="http://t.me/sajjadjim15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="http://wa.me/+01600101810" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://medium.com/@sajjadjim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-</div>
+
+<!-- START Contribution Graph SECTION -->
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+	
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=gotham" align="center" />
+</p>
+	
+<p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadjim&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+</p>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!-- END Contribution Graph SECTION -->
+
+
 
 <!--
 <h2>Built, shipped, Timeline</h2>
