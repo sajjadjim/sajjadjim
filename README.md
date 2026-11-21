@@ -1,15 +1,48 @@
-# Hi there, I'm  JIM! 👋      
-<div align="center">          
-<a href="https://sajjadjim.web.app">                   
+# Hi there, I'm  JIM! 👋              
+<a href="https://sajjadjim.web.app">                
+<!-- <img src="https://github.com/sajjadjim/sajjadjim/blob/main/sajjadjim.png?raw=true"  />.  -->     
 </a>            
-          
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=living-identity&label=SAJJAD%20HOSAIN%20JIM&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&variant=living-identity&label=SAJJAD%20HOSAIN%20JIM&v=wow-living-identity-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated Living Identity portrait and ASCII name" />
-</picture>
-</div>
-
+             
+## 🌟 About Myself           
+<!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABout Me  
+<p>
+   <p aligh="left">
+      <h3 align="center">A Junior level programmer and Web Developer  from Bangladesh , Asia!!🥸 </h3>  
+       
+- 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
+- 🌱 I’m currently working  Web Development. 
+- 📫 How to reach me:  <a href="mailto:sajjadjim15@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="sajjadjim" height="25" width="45" target="_blank" />
     
+- Check out my some post:  <a href="https://medium.com/@sajjadjim" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="sajjadjim" height="25" width="45" target="_blank" />
+   </p>
+    
+</p> 
+
+## Introduction
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Web+Developer%F0%9F%92%BB%F0%9F%92%BB;5+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+NextJS+Firebase+%F0%9F%94%A5+React++JAVASCRIPT+MongoDB" alt="Typing SVG" /></a>
+</p>
+
+
+<br>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
+<p align="center">
+  <img height="200" src="https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://laguages-stats-sajjadjim.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10" />
+</p> 
+<p align="center" align="left" >
+    <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=whatsapp-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
+</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=tokyonight" />
+</div>
+ <br> 
+ 
+<br>
+
+
 ## 🌟 About Myself           
 <!-- <h1 align="center">🍁 Welcome To My Profile 🍁</h1>  -->    
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me  
