@@ -106,7 +106,7 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
 
-<!-- START Contribution Graph SECTION -->
+
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 	
@@ -117,24 +117,5 @@
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadjim&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 </p>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-<!-- END Contribution Graph SECTION -->
-
-
-
-<!--
-<h2>Built, shipped, Timeline</h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FInterview-Mate%2Csajjadjim%2FMedical_bootCamp%2Csajjadjim%2FIOT-projects%2Csajjadjim%2FLoan-Management-Website&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FInterview-Mate%2Csajjadjim%2FMedical_bootCamp%2Csajjadjim%2FIOT-projects%2Csajjadjim%2FLoan-Management-Website&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=sajjadjim&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120739140%3Fu%3D8061e75130c79bad2c2168d45906b34e054cd947%26v%3D4&repos=sajjadjim%2FCoffee_Bill_-Resturant%2Csajjadjim%2FEnglish-Janala%2Csajjadjim%2Fpoxy-server-shellProgramming%2Csajjadjim%2FLoan-Management-Website&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SAJJAD HOSAIN JIM animated project launch timeline" />
-</picture>
--->
 
 <p align="center"><sub>S. M. SAJJAD HOSAIN JIM · </sub></p>
